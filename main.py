@@ -1,6 +1,8 @@
 import requests
 
-TMDB_API_KEY = "aa01d26e6d74fe97c22e1575f811c275". hvjl
+TMDB_API_KEY = "aa01d26e6d74fe97c22e1575f811c275" 
+
+#maddy
 
 def get_movie(title):
     url = (
