@@ -44,3 +44,4 @@ if __name__ == "__main__":
     print(movie)
     print(movie["title"])
     print(movie["id"])
+    print("hello")
